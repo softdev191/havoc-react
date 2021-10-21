@@ -1,0 +1,38 @@
+.undeline-offset-1 {
+  text-underline-offset: 0.25rem;
+}
+
+.swiper-container {
+  padding-bottom: 2rem;
+}
+
+.swiper-container-horizontal > .swiper-pagination-progressbar {
+	width: 100%;
+	height: 4px;
+	left: 0;
+	bottom: 0px;
+	top: auto;
+}
+
+.react-mde {
+	border: 1px solid #c8ccd0;
+	border-radius: 0.5rem;
+	padding: 0.25rem 1rem;
+}
+
+.mde-header {
+	padding-bottom: 0.25rem;
+}
+
+textarea.mde-text {
+	outline: none !important;
+}
+
+.mde-header .mde-tabs button.selected {
+	border: none !important;
+	font-weight: 600;
+}
+
+.react-mde {
+	border-radius: 0.5rem !important;
+}
